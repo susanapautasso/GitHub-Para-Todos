@@ -1,15 +1,5 @@
-# Modificame
+# HERRAMIENTAS PARA LA GENERACI{ON DE RECURSOS DIDÁCTICOS
+![SIN TITULO](http://cmapspublic2.ihmc.us/rid=1H31W66KM-1JGN4MQ-6V/NI%C3%91OS%20APRENDIENDO%20OMAIRA%20MU%C3%91OZ.cmap?rid=1H31W66KM-1JGN4MQ-6V&partName=htmljpeg)
+***
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
-
-> Es nuestro arenero personal
-
-Pueden:
-
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
-
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
 
